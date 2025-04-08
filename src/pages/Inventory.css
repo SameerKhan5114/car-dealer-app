@@ -1,0 +1,15 @@
+.sidebar-section button {
+    font-size: 14px;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .thumbnail-gallery img.thumbnail-img {
+    width: 100px;
+    height: 60px;
+    object-fit: cover;
+    border: 1px solid #ddd;
+    cursor: pointer;
+  }
+  
